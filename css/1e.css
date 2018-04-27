@@ -1,0 +1,39 @@
+.col_rojo{
+    background-color: red;
+    height: 200px;
+}
+.col_verde{
+    background-color: green;
+    height: 200px;
+}
+.col_azul{
+    background-color: blue;
+    height: 200px;
+}
+.col_centro{
+    background-color: aquamarine;
+    height: 200px;
+}
+.col_negro{
+    background-color: black;
+    height: 200px;
+}
+.fila1{
+    height: 300px;
+}
+.fila2{
+    background-color: gray;
+    height: 200px;
+}
+.col_verde2{
+    background-color: forestgreen;
+    height: 300px;
+}
+.col_aqua{
+    background-color: aqua;
+    height: 200px;
+}
+.col_ivory{
+    background-color: ivory;
+    height: 200px;
+}
